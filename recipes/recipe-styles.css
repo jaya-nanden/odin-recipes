@@ -1,0 +1,21 @@
+body {
+    background-color: aliceblue;
+    max-width: 720px;
+    margin: 0 auto;
+}
+
+img {
+    height: auto;
+    width: 300px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 7vh;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 30px;
+}
